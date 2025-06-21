@@ -1,4 +1,4 @@
-# Rachid Jaada | Full Stack Developer & 42 School Graduate 🚀
+# Rachid Jaada | Full Stack Developer & 42 School 🚀
 
 <div align="center">
 
