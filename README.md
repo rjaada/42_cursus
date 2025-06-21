@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![42 Profile](https://42term.vercel.app/api/profile?username=rjaada&theme=dark)](https://profile.intra.42.fr/users/rjaada)
+[![rjaada's 42 profile](https://42term.vercel.app/api/widget/student/rjaada?theme=dark)](https://42term.vercel.app)
 
 **Transforming Challenges into Code Excellence**
 
-[📧 Contact](mailto:contact@rachid.dev) • [💼 LinkedIn](https://linkedin.com/in/rachidjaada) • [🌐 Portfolio](https://rachid.dev)
+[📧 Contact](mailto:rjaada42@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/rachidjaada42) • [🌐 Portfolio](https://jaada.me)
 
 </div>
 
@@ -26,7 +26,7 @@ I'm a passionate software developer who believes that our greatest challenges fo
 
 <div align="center">
 
-[![42 Projects](https://42term.vercel.app/api/projects?username=rjaada&theme=dark)](https://profile.intra.42.fr/users/rjaada)
+[![rjaada's 42 projects](https://42term.vercel.app/api/widget/projects/rjaada?theme=dark)](https://42term.vercel.app)
 
 </div>
 
@@ -145,7 +145,7 @@ Comprehensive virtual machine setup with advanced security configurations and sy
 
 <div align="center">
 
-[![42 Skills](https://42term.vercel.app/api/skills?username=rjaada&theme=dark)](https://profile.intra.42.fr/users/rjaada)
+[![rjaada's 42 skills](https://42term.vercel.app/api/widget/skills/rjaada?theme=dark)](https://42term.vercel.app)
 
 </div>
 
