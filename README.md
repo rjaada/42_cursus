@@ -173,9 +173,7 @@ Comprehensive virtual machine setup with advanced security configurations and sy
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjaada&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjaada&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjaada&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjaada&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
